@@ -19,7 +19,7 @@ commands and a string as the 4th element.
 Dividing sorted array using "for" cycle and "slice()" method. If the number of students is divisible by 3 with 
 a remainder, then we cut the last element of the array using the "pop()" method and push it to the end of array 
 using "push()" method.
-
+<br><br>
 
 <b>file: calc-heating-costs.js</b>
 
