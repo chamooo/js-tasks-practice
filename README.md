@@ -6,7 +6,7 @@ file: divide-into-groups.js
 
 Working with arrays.
 
-Task:
+<b>Task:</b>
 You have a list of students who want to play the game:
 const students = ['Peter', 'Andrew', 'Ann', 'Mark', 'Josh', 'Sandra', 'Cris', 'Bernard', 'Takesi', 'Sam'];
 But teams can only be 3 to 3 people. Write a sortStudentsByGroups function that accepts an array of strings.
